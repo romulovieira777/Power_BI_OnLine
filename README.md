@@ -5,5 +5,6 @@
 - [Apresentação](https://github.com/romulovieira777/Power_BI_OnLine/tree/main/Apresentacao)
 - [Aula 01 - Introdução](https://github.com/romulovieira777/Power_BI_OnLine/tree/main/Aula_01_Introducao)
 - [Aula 02 - Tabelas](https://github.com/romulovieira777/Power_BI_OnLine/tree/main/Aula_02_Tabelas)
+- [Aula 03 - Apresentação do Software Power BI Desktop]()
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/power-bi-online-2024)
