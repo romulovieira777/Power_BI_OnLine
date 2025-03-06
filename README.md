@@ -6,6 +6,6 @@
 - [Aula 01 - Introdução](https://github.com/romulovieira777/Power_BI_OnLine/tree/main/Aula_01_Introducao)
 - [Aula 02 - Tabelas](https://github.com/romulovieira777/Power_BI_OnLine/tree/main/Aula_02_Tabelas)
 - [Aula 03 - Apresentação do Software Power BI Desktop](https://github.com/romulovieira777/Power_BI_OnLine/tree/main/Aula_03_Apresentacao_do_Software_Power_BI_Desktop)
-- [Aula 04 - Ferramenta de ETL (Power Query)]()
+- [Aula 04 - Ferramenta de ETL (Power Query)](https://github.com/romulovieira777/Power_BI_OnLine/tree/main/Aula_04_Ferramenta_de_ETL_Power_Query)
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/power-bi-online-2024)
