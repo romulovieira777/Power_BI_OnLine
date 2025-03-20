@@ -9,5 +9,6 @@
 - [Aula 04 - Ferramenta de ETL (Power Query)](https://github.com/romulovieira777/Power_BI_OnLine/tree/main/Aula_04_Ferramenta_de_ETL_Power_Query)
 - [Aula 05 - Ferramenta de Modelagem (Power Pivot)](https://github.com/romulovieira777/Power_BI_OnLine/tree/main/Aula_05_Ferramenta_de_Modelagem_Power_Pivot)
 - [Aula 06 - Ferramenta de Relatório (Power View)](https://github.com/romulovieira777/Power_BI_OnLine/tree/main/Aula_06_Ferramenta_de_Relatorio_Power_View)
+- [Aula 07 - Power BI Online]()
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/power-bi-online-2024)
